@@ -1,0 +1,1 @@
+{"attribs":["position",""],"code":"global $PDO; \n$query = \"SELECT position\n FROM pane_menu \nWHERE id= ? \";\n$pds = $PDO->prepare($query); \n$pds->execute(\/****\/ array(\n$menu_id) ); \n\n$R = $pds->fetchAll(2); \nreturn $R;"}
