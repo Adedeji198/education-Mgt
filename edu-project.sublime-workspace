@@ -1,0 +1,1601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"article",
+				"article-id"
+			],
+			[
+				"tim",
+				"timetable"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"arti",
+				"articlesFetched"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"op",
+				"openArticle"
+			],
+			[
+				"cou",
+				"course-id"
+			],
+			[
+				"d",
+				"dat"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"Pa",
+				"PassP"
+			],
+			[
+				"mess",
+				"Message"
+			],
+			[
+				"backgour",
+				"background-color"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"cell",
+				"cellpadding\tAttr"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"do",
+				"doSomething"
+			],
+			[
+				"inpu",
+				"input-val"
+			],
+			[
+				"c",
+				"C"
+			],
+			[
+				"des",
+				"destroyScroller"
+			],
+			[
+				"rebi",
+				"rebind2"
+			],
+			[
+				"cht",
+				"chatFetched"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"re",
+				"rebind2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"copy",
+				"copy_folder"
+			],
+			[
+				"D",
+				"Dst"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"u",
+				"users"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fet",
+				"fetchFiles"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"pass",
+				"passwordfield"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"Con",
+				"ContentFinder"
+			],
+			[
+				"Js",
+				"Json"
+			],
+			[
+				"l",
+				"location"
+			],
+			[
+				"stud",
+				"studentLogin"
+			],
+			[
+				"k",
+				"Ke2"
+			],
+			[
+				"Leve",
+				"Levels"
+			],
+			[
+				"Le",
+				"Level"
+			],
+			[
+				"form",
+				"FormVars"
+			],
+			[
+				"PO",
+				"_POST"
+			],
+			[
+				"res",
+				"res2"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"pd",
+				"pds2"
+			],
+			[
+				"su",
+				"subject"
+			],
+			[
+				"setV",
+				"setValue"
+			],
+			[
+				"Val",
+				"ValueKey"
+			],
+			[
+				"V",
+				"Value"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"key",
+				"key_"
+			],
+			[
+				"Score",
+				"ScoreList"
+			],
+			[
+				"array_",
+				"array_combine"
+			],
+			[
+				"Sc",
+				"Scores1"
+			],
+			[
+				"exa",
+				"exam-drop"
+			],
+			[
+				"high",
+				"high_school_cert"
+			],
+			[
+				"Json",
+				"JsonObj"
+			],
+			[
+				"Exam",
+				"Exams"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"Exa",
+				"ExamDropDown"
+			],
+			[
+				"Pass",
+				"Password1"
+			],
+			[
+				"Form",
+				"FormData"
+			],
+			[
+				"For",
+				"FormData"
+			],
+			[
+				"ext",
+				"ext"
+			],
+			[
+				"exte",
+				"getExtension"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"cl",
+				"clean_name"
+			],
+			[
+				"obj",
+				"objToArray"
+			],
+			[
+				"setup",
+				"setupAjaxUpload"
+			],
+			[
+				"Fil",
+				"Files"
+			],
+			[
+				"Fo",
+				"Folder2"
+			],
+			[
+				"F",
+				"Folder2"
+			],
+			[
+				"L",
+				"Level_Dropdown"
+			],
+			[
+				"Lev",
+				"Level_Stuff"
+			],
+			[
+				"le",
+				"Level"
+			],
+			[
+				"C",
+				"Cat_Array"
+			],
+			[
+				"ma",
+				"make"
+			],
+			[
+				"pro",
+				"processor-name"
+			],
+			[
+				"scri",
+				"script-path"
+			],
+			[
+				"make",
+				"makeFolder"
+			],
+			[
+				"vi",
+				"view-name"
+			],
+			[
+				"modu",
+				"module-name"
+			],
+			[
+				"Id",
+				"IdsStr"
+			],
+			[
+				"Ls",
+				"Lst2"
+			],
+			[
+				"cre",
+				"create-task"
+			],
+			[
+				"upd",
+				"update-task"
+			],
+			[
+				"Co",
+				"Counter"
+			],
+			[
+				"ch",
+				"chk-value"
+			],
+			[
+				"chk",
+				"chk-value-yes"
+			],
+			[
+				"mod",
+				"module-name"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"feth",
+				"fetchAll"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"qu",
+				"query2"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"SI",
+				"SITE_PATH"
+			],
+			[
+				"set",
+				"setDropDownValue"
+			],
+			[
+				"path",
+				"path_value"
+			],
+			[
+				"get",
+				"getSubCategory"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"Page",
+				"PagePrivilege"
+			],
+			[
+				"Pag",
+				"PageName"
+			],
+			[
+				"de",
+				"debug_str"
+			],
+			[
+				"me",
+				"Menus"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"i_",
+				"i_modules"
+			],
+			[
+				"Va",
+				"Val"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "modules/chat/view-classroom-chats.php",
+			"settings":
+			{
+				"buffer_size": 1317,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/chat/view-classroom-chats2.php",
+			"settings":
+			{
+				"buffer_size": 4451,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/chat/chat.php",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/chat/model.php",
+			"settings":
+			{
+				"buffer_size": 2528,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/chat/js/article-mg.js",
+			"settings":
+			{
+				"buffer_size": 1933,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "modules/chat/ajax_SaveArticle.php",
+			"settings":
+			{
+				"buffer_size": 2543,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 371.0,
+		"history":
+		[
+			"echo",
+			"path",
+			"dir",
+			"clear",
+			"dir",
+			"pwd",
+			".",
+			"cls",
+			"node",
+			"php"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp5/htdocs/edu-prj/modules",
+		"/C/xampp5/htdocs/edu-prj/modules/chat",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/js",
+		"/C/xampp5/htdocs/edu-prj/modules/timetable",
+		"/C/xampp5/htdocs/edu-prj/modules/view_pane_menu",
+		"/C/xampp5/htdocs/edu-prj/modules/welcome"
+	],
+	"file_history":
+	[
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_admiission/js/script.js",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/ajax_fetchNewChat.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/model.php",
+		"/C/xampp5/htdocs/edu-prj/modules/dashboard_s/dashboard_s.php",
+		"/C/xampp5/htdocs/edu-prj/modules/view_pane_menu/view_pane_menu.php",
+		"/C/xampp5/htdocs/edu-prj/index.php",
+		"/C/xampp5/htdocs/edu-prj/router.php",
+		"/C/xampp5/htdocs/edu-prj/modules/timetable/timetable.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/manage_lecturer.php",
+		"/C/xampp5/htdocs/edu-prj/admin/plugins/users/users.php",
+		"/C/xampp5/htdocs/edu-prj/configure/modules.xml",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_admiission/ajax_EditAdm.php",
+		"/C/xampp5/htdocs/edu-prj/modules/registration/registration.php",
+		"/C/xampp5/htdocs/edu-prj/modules/qualification/qualification.php",
+		"/C/xampp5/htdocs/edu-prj/modules/welcome/welcome.php",
+		"/C/xampp5/htdocs/edu-prj/configure/module-routing.json",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/view-classroom-chats.php",
+		"/C/xampp5/htdocs/edu-prj/todo.txt",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_admiission/manage_admiission.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/js/attendance.js",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/js/article-mg.js",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/view-classroom-chats2.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/ajax_SaveArticle.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/ajax_Attendance.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/js/script.js",
+		"/C/xampp5/htdocs/edu-prj/modules/scripts/scripts.php",
+		"/C/xampp5/htdocs/edu-prj/templates/default/index.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/view_messages2.php",
+		"/C/xampp5/htdocs/edu-prj/modules/login_form/login_form.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/view_messages.php",
+		"/C/xampp5/htdocs/edu-prj/modules/login_form/jscript/validate.js",
+		"/C/xampp5/htdocs/edu-prj/modules/menu/menu.php",
+		"/C/xampp5/htdocs/tablet-tools/InstallMake/INstall/password-peek/index.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/lecturer_course/js/script.js",
+		"/C/xampp5/htdocs/tablet-tools/InstallMake/INstall/password-peek/password-peek.js",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/lecturer_course/ajax_Edit.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/lecturer_course/lecturer_course.php",
+		"/C/xampp5/htdocs/edu-prj/admin/configure/getURL.php",
+		"/C/xampp5/htdocs/edu-prj/todo2.txt",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/lecturer_course/SearchLecturer.php",
+		"/C/xampp5/htdocs/edu-prj/modules/course_registration/js/script.js",
+		"/C/xampp5/htdocs/edu-prj/modules/course_registration/ajax_EditCourses.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/lecturer_course/ajax_GetDetails.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/lecturer_course/model.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/lecturer_course/helper.php",
+		"/C/xampp5/htdocs/edu-prj/modules/course_registration/helper.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/ajax_GetResltDetails.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/model.php",
+		"/C/xampp5/htdocs/edu-prj/admin/templates/default/index.php",
+		"/C/xampp5/htdocs/edu-prj/modules/course_registration/course_registration.php",
+		"/C/xampp5/htdocs/edu-prj/modules/course_registration/model.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/ajax_FetchAdm.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/js/script.js",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/ajax_EditAdm.php",
+		"/C/Users/seun/Desktop/binary.html",
+		"/C/Users/seun/Desktop/binary2.html",
+		"/C/xampp5/htdocs/webclass/index.html",
+		"/C/Users/seun/Desktop/index.php",
+		"/C/xampp5/htdocs/webclass/index.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/chat.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/view-classroom.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/js/chatfinder.js",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/article/article.php",
+		"/C/xampp5/htdocs/edu-prj/modules/chat/ajax_sendNewChat.php",
+		"/C/xampp5/htdocs/new-mvc-project/reference/library/js/ChatFinder.js",
+		"/C/xampp5/htdocs/edu-prj/reference/library/js/ChatFinder.js",
+		"/C/xampp5/htdocs/edu-prj/admin/configure/database-mgr.php",
+		"/C/xampp5/htdocs/edu-prj/reference/scroller.php",
+		"/C/xampp5/htdocs/edu-prj/admin/configure/process-table.php",
+		"/C/xampp5/htdocs/edu-prj/modules/debug/debug.php",
+		"/C/xampp5/htdocs/edu-prj/css/style.css",
+		"/C/xampp5/htdocs/edu-prj/modules/css/css.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_courses/model.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_courses/manage_courses.php",
+		"/C/Users/seun/AppData/Local/Temp/fz3temp-1/chat.php",
+		"/C/xampp5/htdocs/new-mvc-project/admin/configure/getURL.php",
+		"/C/xampp5/htdocs/tablet-tools/InstallMake/INstall/tinymce/tinymce_folder/plugins/mypictures/dialog.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/test/ajax_test.php",
+		"/C/xampp5/htdocs/edu-prj/admin/configure/show-a-page.php",
+		"/C/xampp5/htdocs/edu-prj/admin/forbidden/db_connect.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_admiission/ajax_FetchAdm.php",
+		"/C/xampp5/htdocs/new-mvc-project/admin/forbidden/.htaccess",
+		"/C/xampp5/htdocs/new-mvc-project/reference/library/js/SearchFinder.js",
+		"/C/xampp5/htdocs/tablet-tools/InstallMake/INstall/tinymce/index.php",
+		"/C/xampp5/htdocs/info-hub/modules/chat/js/script.js",
+		"/C/xampp5/htdocs/info-hub/reference/copy_folder.php",
+		"/C/Users/seun/Desktop/todo.txt",
+		"/C/xampp5/htdocs/info-hub/admin/modules/manage_user/ajax_Edituser.php",
+		"/C/xampp5/htdocs/info-hub/admin/plugins/users/users.php",
+		"/C/xampp5/htdocs/info-hub/admin/modules/manage_user/manage_user.php",
+		"/C/xampp5/htdocs/tablet-tools/InstallMake/INstall/table-edit/index.php",
+		"/C/xampp5/htdocs/tablet-tools/InstallMake/INstall/table-edit/install-helper.php",
+		"/C/xampp5/htdocs/info-hub/admin/plugins/login/login.php",
+		"/C/xampp5/htdocs/info-hub/install.php",
+		"/C/xampp5/htdocs/info-hub/admin/install.php",
+		"/C/xampp5/htdocs/new-mvc-project/install.php",
+		"/C/xampp5/htdocs/info-hub/admin/configure/filemanager.php",
+		"/C/Users/seun/Desktop/new 1.txt",
+		"/C/Users/seun/Desktop/example3/css/styles.css",
+		"/C/Users/seun/Desktop/example3/index.html",
+		"/C/Users/seun/Desktop/die.js",
+		"/C/Users/seun/Desktop/todo",
+		"/C/Users/seun/Desktop/example2/index.html",
+		"/D/example2/index.html",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/ajax_FetchAdm2.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_lecturer/manage_admiission.php",
+		"/C/xampp5/htdocs/edu-prj/admin/css/font-awesome.min.css",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/css/css.php",
+		"/C/xampp5/htdocs/edu-prj/admin/configure/functions.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_admiission/ajax_GetResltDetails.php",
+		"/C/xampp5/htdocs/edu-prj/modules/dynamic_text/dynamic_text.php",
+		"/C/xampp5/htdocs/edu-prj/modules/dynamic_text/helper.php",
+		"/C/xampp5/htdocs/edu-prj/modules/test/helper.php",
+		"/C/xampp5/htdocs/edu-prj/dynamic_text.php",
+		"/C/xampp5/htdocs/edu-prj/modules/welcome/model.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/manage_admiission/model.php",
+		"/C/xampp5/htdocs/new-mvc-project/admin/css/bootstrap.min.css",
+		"/C/Users/seun/AppData/Local/Temp/fz3temp-1/helper.php",
+		"/C/xampp5/htdocs/edu-prj/modules/dynamic_text/model.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/uplload_files/ajax_Upload.php",
+		"/C/xampp5/htdocs/edu-prj/admin/plugins/article/article.php",
+		"/C/xampp5/htdocs/tablet-tools/InstallMake/INstall/upload/proUploadImage.php",
+		"/C/xampp5/htdocs/edu-prj/ajax_fetchImage.php",
+		"/C/xampp5/htdocs/edu-prj/ajax_fetchFile.php",
+		"/C/xampp5/htdocs/edu-prj/admin/modules/uplload_files/uplload_files.php",
+		"/C/xampp5/htdocs/tcexam-masterII/shared/pro/profetchFile.php",
+		"/C/xampp5/htdocs/tcexam-masterII/shared/pro/profetchFile2.php",
+		"/C/xampp5/htdocs/edu-prj/reference/object to  array.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\xampp5\\htdocs\\edu-prj\\admin\\css",
+			"C:\\xampp\\htdocs\\talented\\admin\\configure",
+			"C:\\xampp\\htdocs\\talented",
+			"C:\\xampp\\htdocs\\tcexam-master",
+			"C:\\xampp\\htdocs\\tcexam-master\\shared\\config",
+			"C:\\xampp\\htdocs\\tcexam-master\\public",
+			"C:\\xampp\\htdocs\\tcexam-master\\admin",
+			"C:\\xampp\\htdocs\\tcexam-master\\shared",
+			"C:\\xampp\\htdocs\\tcexam-master\\public",
+			"C:\\xampp\\htdocs\\tcexam-master\\shared",
+			"C:\\xampp\\htdocs\\tcexam-master\\shared\\code",
+			"C:\\xampp\\htdocs\\tcexam-master\\admin\\code",
+			"C:\\xampp\\htdocs\\tcexam-master\\admin\\code\\PhpExcel"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fetch",
+			"stude",
+			"cle",
+			"course-id",
+			"textare",
+			"userid",
+			"tabl",
+			"header",
+			"url",
+			"table",
+			"destroyscro",
+			"jsonobj",
+			"captur",
+			"document",
+			"url",
+			"JsonObj",
+			"view-can",
+			"myp",
+			"includ",
+			"fa-group",
+			"\\\\",
+			" right-pane",
+			" \n",
+			"console",
+			"eval",
+			"JsonObj_",
+			"file_put",
+			"create",
+			"formv",
+			"updat",
+			"tablen",
+			"SESS",
+			"prett",
+			"search",
+			"bind",
+			"%\\?%",
+			"consol",
+			"hidden",
+			"li",
+			"\\\\",
+			"pass",
+			"copy",
+			"\\[\\]",
+			"amp",
+			"inser",
+			"updat",
+			"scrip",
+			"tablename",
+			"urls",
+			"tablename",
+			"<h",
+			"urls",
+			"plugin",
+			"tool",
+			"netbean",
+			"click",
+			"functio",
+			"FUNtion",
+			"PLUGIN",
+			"serVER_U",
+			"show-folder-",
+			"modules",
+			"simplexml_load_string",
+			"html",
+			"isset",
+			"console",
+			"/",
+			"show-folder-2",
+			"privilege",
+			"privilege\t",
+			"script",
+			"frm",
+			"ech",
+			"route",
+			"module",
+			"table",
+			"script",
+			"forea",
+			"pre>",
+			"mmm",
+			"menu",
+			"cls",
+			"moduleLi",
+			"reset",
+			"save",
+			"reset",
+			"scri",
+			"tad",
+			"innerHTML",
+			"/>\n",
+			"list1",
+			"cri",
+			",",
+			"go",
+			"incl",
+			"/ul",
+			"ul",
+			"form",
+			"createStructu",
+			"\\\\",
+			"button",
+			" ",
+			"id",
+			"&nbsp;",
+			"table-dd",
+			"script",
+			"selected",
+			"\\[",
+			"array",
+			"alert",
+			"acti",
+			"opener",
+			"len",
+			"item",
+			", ",
+			"\\\\",
+			"main",
+			" ",
+			"; \"",
+			"alert",
+			"_sett",
+			"justclicked",
+			"chose",
+			"; ",
+			"<option>(\\w+)",
+			"null",
+			"task",
+			"\\]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/",
+			"\\?",
+			"/",
+			"\\\\",
+			"info-hub",
+			"/",
+			"",
+			",",
+			"/",
+			" /",
+			" ",
+			"\"",
+			"",
+			"<option value=\"@color/\\1\">\\1",
+			"undefined",
+			"'\\]",
+			"\\['",
+			"\\.",
+			"if\\(isset\\(\\$_POST\\['register.error'\\]\\) && \\$_POST\\['register.error'\\] ==1\\)",
+			"REQUEST_URI",
+			"SERVER_URI",
+			"<%parent-key%>",
+			"<%level-key%>",
+			"<%menu-table%>",
+			"",
+			"<%image-url-column%>",
+			"<%url-table%>",
+			"<%task-prefix%>",
+			"<%category-table%>",
+			"<%plugin-prefix%>.",
+			"CategoryMgr::",
+			"<%category-table%>",
+			"/",
+			" ",
+			"\\1",
+			"/",
+			"setDataArray",
+			"=\\?,",
+			"newscategories",
+			"/",
+			"",
+			"undefined",
+			"<?php \n\techo $UserDetails[''];\n?>",
+			"img",
+			"//debugger",
+			"debugger",
+			"//debugger",
+			"",
+			"    ",
+			"",
+			"string",
+			"",
+			"Item",
+			"Index",
+			"",
+			";",
+			"",
+			";",
+			"ItemManager",
+			"CartManager",
+			"",
+			"\\1",
+			"<br />",
+			"Cart",
+			"",
+			"\"\\1\",",
+			";",
+			"\\n",
+			"edves_curricullum",
+			"\\n",
+			";",
+			"AUTO_INCREMENT=1",
+			";",
+			"\\n",
+			";",
+			"Array",
+			"",
+			"-- DESCRIBE \\1 ",
+			"-- SELECT * FROM \\1 WHERE 1",
+			";",
+			"\\n",
+			";",
+			",",
+			";",
+			"\\\\'",
+			"\\n",
+			"'\\1',",
+			",",
+			"-- SELECT \\* FROM \\1 WHERE 1",
+			"-- DESCRIBE \\1",
+			";",
+			",",
+			"",
+			"','7'",
+			";",
+			",",
+			"\\\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "modules/chat/view-classroom-chats.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 244.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "modules/chat/view-classroom-chats2.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4438,
+								4438
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3187.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "modules/chat/chat.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "modules/chat/model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "modules/chat/js/article-mg.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1379,
+								1379
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 43.0,
+						"translation.y": 1377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "modules/chat/ajax_SaveArticle.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1227,
+								1227
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 318.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 172.0
+	},
+	"output.xdebug":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "edu-project.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cur",
+				"admin\\modules\\leagues\\Curl.php"
+			],
+			[
+				"php",
+				"server\\php0.php"
+			],
+			[
+				"hel",
+				"server\\helper.php"
+			],
+			[
+				"",
+				"server\\php0.php"
+			],
+			[
+				"pro_",
+				"modules\\login\\pro_login.php"
+			],
+			[
+				"lo",
+				"p_php\\login.php"
+			],
+			[
+				"p",
+				"process.php"
+			],
+			[
+				"setu",
+				"scripts\\setup-menu.js"
+			],
+			[
+				"ti",
+				"scripts\\Ti-Implement.js"
+			],
+			[
+				"setup",
+				"scripts\\setup-menu.js"
+			],
+			[
+				"sqli",
+				"scripts\\sqlite.js"
+			],
+			[
+				"product.j",
+				"scripts\\products.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"menu",
+				"scripts\\setup-menu.js"
+			],
+			[
+				"sess",
+				"scripts\\session.js"
+			],
+			[
+				"reg",
+				"registration.html"
+			],
+			[
+				"dst",
+				"DStructs.txt"
+			],
+			[
+				"dstr",
+				"DStructs.txt"
+			],
+			[
+				"regi",
+				"registration.html"
+			],
+			[
+				"se",
+				"scripts\\session.js"
+			],
+			[
+				"salesm",
+				"scripts\\SalesModel.js"
+			],
+			[
+				"sales",
+				"scripts\\ViewSales.js"
+			],
+			[
+				"discoun",
+				"js\\Discount.js"
+			],
+			[
+				"form",
+				"scripts\\FormController.js"
+			],
+			[
+				"disc",
+				"scripts\\DiscountModel.js"
+			],
+			[
+				"productm",
+				"scripts\\ProductModel.js"
+			],
+			[
+				"prod",
+				"scripts\\ProductModel.js"
+			],
+			[
+				"sq",
+				"scripts\\sqlite.js"
+			],
+			[
+				"produ",
+				"scripts\\ProductModel.js"
+			],
+			[
+				"sa",
+				"scripts\\Sales.js"
+			],
+			[
+				"d",
+				"scripts\\Discount.js"
+			],
+			[
+				"sal",
+				"scripts\\Sales.js"
+			],
+			[
+				"di",
+				"scripts\\Discount.js"
+			],
+			[
+				"dis",
+				"scripts\\Discount.js"
+			],
+			[
+				"pro",
+				"scripts\\products.js"
+			],
+			[
+				"mod",
+				"scripts\\ModuleListController2.js"
+			],
+			[
+				"disco",
+				"scripts\\DiscountModel.js"
+			],
+			[
+				"product.js",
+				"scripts\\products.js"
+			],
+			[
+				"for",
+				"scripts\\FormController.js"
+			],
+			[
+				"productlis",
+				"scripts\\ProductListController.js"
+			],
+			[
+				"not",
+				"napps\\classes\\NotificationManager.php"
+			],
+			[
+				"mail",
+				"napps\\classes\\MailManagement.php"
+			],
+			[
+				"gene",
+				"cgi-bin\\classes\\GeneralManager.php"
+			],
+			[
+				"cla",
+				"class.php"
+			],
+			[
+				"cart",
+				"cgi-bin\\classes\\CartManager.php"
+			],
+			[
+				"procre",
+				"proCreateCart.php"
+			],
+			[
+				"car",
+				"cgi-bin\\classes\\CartManager.php"
+			],
+			[
+				"it",
+				"cgi-bin\\classes\\ItemManager.php"
+			],
+			[
+				"ge",
+				"cgi-bin\\classes\\GeneralManager.php"
+			],
+			[
+				"l",
+				"cgi-bin\\classes\\LessonManager.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

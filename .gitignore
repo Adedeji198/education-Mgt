@@ -1,0 +1,6 @@
+configure/*
+admin/configure/*
+git/*
+install.php
+install-helper.php
+mmm.docx

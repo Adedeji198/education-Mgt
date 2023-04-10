@@ -1,0 +1,169 @@
+/*/style*/
+#logo{
+    width: 80px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head{
+    margin-top: 30px;
+}
+
+#body{
+    min-height: 450px;
+    margin: 20px;
+}
+
+#footer{
+    padding:10px;
+    text-align: center;
+    clear: both;
+    width: 100%;
+    background-color: #29166F;
+    color: #fff;
+    margin-top: 10px;
+    float: left;
+
+}
+
+.re-lbl{
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+#menu{
+    height: 50px;
+    background-color: #29166F;
+
+    padding-left: 50px;
+}
+#menu ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+#menu ul>li{
+    
+    float: left;
+    margin-right: 10px;
+    
+}
+#menu ul>li>a{
+    display: block;
+    padding-top: 20px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: white;
+}
+
+#menu ul>li>a:hover{
+    background-color: grey ;
+    color:white;    
+}
+
+#left-pane{
+    width: 20%;
+    min-height: 450px;
+    background-color: white;
+    float: left;
+    border: thin solid #e0ecff;
+}
+
+#left-pane ul{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+#left-pane ul>li{
+    border-bottom: thin solid #eee
+    
+}
+
+#left-pane ul>li>a{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family:serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: skyblue;
+}
+
+#left-pane div.title{
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+    color: black;
+    background-color: yellow;
+}
+
+#right-pane{
+    float: left;
+    width: 70%;
+    padding-left: 50px;
+    min-height:  400px;
+    padding-top: 30px;
+    background-color: white;
+    font-family: sans-serif;
+
+}
+
+
+/*boiler*/
+li.chat-item{
+    display: block;
+    padding: 15px;
+    background-color: #fefef7;
+    color: #888;
+    list-style-type: none;
+    margin-bottom: 4px;
+    
+}
+.current-pm-item{
+   background-color: #364e72 ;
+   color: #fff;
+}
+input[type=text],input[type=password]{
+    height: 25px;
+    background-color: #fff;
+    border: thin solid #ccc;
+    border-radius: 4px;
+}
+body{
+    margin:0px;
+    padding: 0px;
+}
+.dynamic-text{
+    color: #07eaed;
+}
+
+#chat-container{
+    border: thin solid #777;
+    overflow: hidden;
+    height: 250px;
+    width: 90%
+}
+
+#chat-container ul{
+    margin: 0px;
+    padding: 0px;
+}
